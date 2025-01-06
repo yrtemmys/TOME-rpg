@@ -102,14 +102,14 @@ Each School has an opposing School, which takes -2 Die steps when you try to cas
 Every Apprentice starts with a d20 on all available Schools, which is to say, you can certainly try, but you'll probably hurt yourself.
 When you invest into a School of Magic, you increase its Rank. With each rank up, increase the die step of one of that schools Power Dice.
 When you cast a spell from a School of Magic you're invested in, use its power dice. For the Effect Attribute, refer to the floor and ceiling to see what effects you can create.
-When you cast a spell from multiple different Schools of Magic (up to 5), combine all power dice into an ordered list, and pick the median 5 as your spell power dice.
+When you cast a spell from multiple different Schools of Magic (up to 5), combine all power dice into an ordered list, and pick the median 6 as your spell power dice.
 
 Example lists of Schools of Magic: (pick one list or create your own) [*]
 Elemental: Fire, Water, Air, Earth, Metal, Wood
 Conceptual: Space, Time, Light, Dark
-Surgebinding: Adhesion, Gravitation, Division, Abrasion, Progression, Illumination, Transformation, Transportation, Cohesion, Tension <- thank you sanderson
 Traditions: Arcane, Occult, Divine, Primal
 Gygaxian: Abjuration, Alteration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy
+Surgebinding: Adhesion, Gravitation, Division, Abrasion, Progression, Illumination, Transformation, Transportation, Cohesion, Tension <- thank you sanderson
 
 ### Template for Schools
 [Name and Title]
@@ -121,8 +121,8 @@ dX: [Benefit], [Floor], [Ceiling]
 [Backfire List]
 
 ### Example
-Elemental: Fire, Pyromancer [*]
-Revalations: 5 | d8 d8 d10 d12 d12
+Elemental/Fire, Pyromancer [*]
+Revelations: 5 | d8 d8 d10 d12 d12
 >A pyromancer calls forth and controls fire through their connection to the Elemental Plane of Fire. 
 >They can cause great destruction, yet if they're not careful, the fire threatens to consume them.
 - Opposing School: Water
@@ -297,3 +297,57 @@ Spellbook (bunch/more):
 
 *bunch more
 
+
+
+-----------------------------------
+## Titles
+Every mage speaks with awe of the grand archmages, the peak of wizardry and the arcane world.
+A Title is a descriptor you may apply to your spell schools and overall character.
+Your median spell power die within a school determines your title within it, according to the following table:
+
+--Step	--Title		-- In a sentence
+d12	Fledgling 	A fledgeling Necromancer shows interest in the school but has not yet spent much time learning it.
+d10	Apprentice 	An apprentice Pyromancer has found a master to study under, or another place of learning.
+ d8	Diciple		A Diciple of Abjuration has completed their basic training and is a fully fledged Mage.
+ d6	Master 		A Master Conjurer has advanced to the point where they can take on their own students and teach their school.
+ d4	Grand		A Grand Seer has reached the pinnacle of their school and few can rival their skill.
+
+To apply a title to your character as a whole, pick the school with the highest title you have earned and use that.
+Additionally, once you've reached [highest rank] in 5 different schools, you may claim the coveted title of Archmage.
+
+-----------------------------------
+## The content:
+
+Conceptual/Space, Raumurgist
+	Prerequesite: d8 in Gravity
+	A Raumurgist can bend space itself to their wims, stretching or contracting it, connecting two distant points together, or creating extradimensional spaces from nothing.
+	Spacial Manipulations collapse too easily if they aren't contained by physical barriers, until a Mage gains the necessary skill at d6.
+
+	-- Step	--Benefit		|--Example		|--Scope
+	d12	none			|* of holding		|Bag
+	d10	measure distances	|Portals		|Room
+	 d8	sense distortions	|Extradimensional Spaces|Building
+	 d6				|Open Space Distorion	|City 
+	 d4	don't occupy space	|Space Erasure		|Planar
+	
+	Partial Backfire: Where were you again? Become disoriented and roll with Hubris on the next spell you cast.
+	Normal Backfire: Teleport something or someone unintended somewhere inconvenient. 
+	Incredible Backfire: You gain a massive boost of 2 step downs to range! Then you teleport to a random spot within that new range increment. Potentially in the sky.
+
+Conceptual: Time, Zeitgheist
+
+Elemental/Fire, Pyromancer [*]
+Revelations: 5 | d8 d8 d10 d12 d12
+>A pyromancer calls forth and controls fire through their connection to the Elemental Plane of Fire. 
+>They can cause great destruction, yet if they're not careful, the fire threatens to consume them.
+- Opposing School: Water
+--Step	--Benefit	--Floor		--Ceiling
+d12: 	none		warm themselves	create sparks
+d10:	cold resistant	light candles	extinguish a campfire
+ d8:	breathe smoke	breathe fire	control flames
+ d6:	fire immune	evaporate water	tornado of fire
+ d4:	become fire	portal:fireplane create a sun
+
+Partial Backfire: The spell burns you in return. This ignores all benefits. Take minor harm.
+Normal Backfire: The spell is out of fuel. Burn something inconvenient within range that matches the targets approximate volume. Might cause moderate damage.
+Incredible Backfire: Nothing burns as brightly as the fire of life itself. Your soul is sacrificed and utterly destroyed when you cast this spell, and one Attribute is stepped down twice. A volunteer can sacrifice their own soul instead. You may choose not to cast this spell.
