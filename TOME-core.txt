@@ -1,0 +1,299 @@
+# Spellbook RPG
+You're studying to be a wizard and will one day come to incredible arcane power. 
+Or maybe you're one of those other stupid mages, ugh. All cheaters they are.
+
+The game runs through dice scaling from a d4 to a d12 (or d20 if you suck real bad).
+Rolling low is good, rolling high is bad. 
+As you get better at stuff, the die you roll decreases in size.
+
+All rolls are player facing.
+You may be a little wizard shitling, but even you can cast magic. If you can roll, there is always a chance to succeed.
+
+Key terms:
+	Die Steps: A die step refers to the gap between the closest two dice. This game plays with the d4, d6, d8, d10, d12 and d20.
+	Step up/down: A die can step up or down to the next size. For example, a d6 steps up to a d8, and a d10 steps down to a d12, which steps down to a d20.
+	WP: Ward Power. The representation of how well protected you are.
+	SP: Spell Power. A pool of dice you use when casting spells.
+	Attributes: A spell is made up of these Attributes. They are: Effect, Casting time, Duration, Range, Targets, and Effort
+	Brilliance: When you are especially brilliant, you gain an extra roll and keep the lower result.
+	Hubris: When you are blinded by your own hubris, you gain an extra roll and keep the higher result.
+ 
+	Anything marked with a [*] is unique to the default magic system, not the rules themselves. It is advised to play with this, yet may be changed depending on the Campaign.
+
+-----------------------------------
+## The Basic Roll:
+	____________________________________________
+	| -- SUCCESS STATE	-- BACKFIRE STATE  |
+	|  1 Incredible Success	none		   |
+	|  2 Normal Success	none		   |
+	|  3 Normal Success	none		   |
+	|  4 Partial Success	none		   |
+	|  5 Partial Success	none		   |
+	|  6 none		none		   |
+	|  7 none		none		   |
+	|  8 none		partial backfire   |
+	|  9 none		partial backfire   |
+	| 10 none		normal backfire    |
+	| 11 none		normal backfire    |
+	| 12+none		incredible backfire|
+        |------------------------------------------|
+	| -- SUCCESS RATE	BACKFIRE RATE	   | 
+	| d4  100% 		0% 		   |
+	| d6  83% 		0%		   |
+	| d8  62.5%		12.5%		   |
+	| d10 50%		30%		   |
+	| d12 42%		42%		   |
+	[__________________________________________]
+
+
+
+-----------------------------------
+## Spell Power
+You have 5 spell power dice. Before Character Creation, they all sit at a d12.
+As you create your character and gain Relevations, you increase the size of those dice.
+When you cast a spell, assign a dice from your pool to each Attribute of spellcasting.
+You may always choose to assign a lower step of die than available.
+These Attributes and their steps are as follows:
+
+	Casting Time: 
+		d12: days
+		d10: hours 
+		 d8: minutes
+		 d6: seconds 
+		 d4: instant
+	Effect: (Refer to the school in question) 
+		d12: barely anything
+		d10: the minimum
+		 d8: basic stuff
+		 d6: advanced stuff
+		 d4: incredible stuff
+	Duration: 
+		d12: instant
+		d10: minutes 
+		 d8: hours 
+		 d6: days 
+		 d4: permanent
+	Range: 
+		d12: self 
+		d10: touch
+		 d8: short distance 
+		 d6: distance
+		 d4: eyesight
+	Targets: 
+		d12: self 
+		d10: one
+		 d8: a handfull 
+		 d6: crowds
+		 d4: cities
+	Effort: 
+		d12: life threatening
+		d10: pain & vomit
+		 d8: physical exertion 
+		 d6: normal activity
+		 d4: none 
+
+If a spell inflicts harm, refer to the effect attribute die. A d12 does no harm, a d10 does minor, a d8 does moderate, a d6 and up do major.
+
+-----------------------------------
+## Schools of Magic
+Not every mage is equally good at all kinds of magic. 
+You specialize in different Schools of Magic, a list of which can be provided by the GM at character creation, and added to during the campaign as new knowledge is unearthed.
+Each School has an opposing School, which takes -2 Die steps when you try to cast from it. [*]
+Every Apprentice starts with a d20 on all available Schools, which is to say, you can certainly try, but you'll probably hurt yourself.
+When you invest into a School of Magic, you increase its Rank. With each rank up, increase the die step of one of that schools Power Dice.
+When you cast a spell from a School of Magic you're invested in, use its power dice. For the Effect Attribute, refer to the floor and ceiling to see what effects you can create.
+When you cast a spell from multiple different Schools of Magic (up to 5), combine all power dice into an ordered list, and pick the median 5 as your spell power dice.
+
+Example lists of Schools of Magic: (pick one list or create your own) [*]
+Elemental: Fire, Water, Air, Earth, Metal, Wood
+Conceptual: Space, Time, Light, Dark
+Surgebinding: Adhesion, Gravitation, Division, Abrasion, Progression, Illumination, Transformation, Transportation, Cohesion, Tension <- thank you sanderson
+Traditions: Arcane, Occult, Divine, Primal
+Gygaxian: Abjuration, Alteration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy
+
+### Template for Schools
+[Name and Title]
+[Rank and Power Dice]
+[Short Description of success and backfire]
+[Current Power Dice]
+[Opposing School] takes two step ups to casting
+dX: [Benefit], [Floor], [Ceiling]
+[Backfire List]
+
+### Example
+Elemental: Fire, Pyromancer [*]
+Revalations: 5 | d8 d8 d10 d12 d12
+>A pyromancer calls forth and controls fire through their connection to the Elemental Plane of Fire. 
+>They can cause great destruction, yet if they're not careful, the fire threatens to consume them.
+- Opposing School: Water
+--Step	--Benefit	--Floor		--Ceiling
+d12: 	none		warm themselves	create sparks
+d10:	cold resistant	light candles	extinguish a campfire
+ d8:	breathe smoke	breathe fire	control flames
+ d6:	fire immune	evaporate water	tornado of fire
+ d4:	become fire	portal:fireplane create a sun
+
+Partial Backfire: The spell burns you in return. This ignores all benefits. Take minor harm.
+Normal Backfire: The spell is out of fuel. Burn something inconvenient within range that matches the targets approximate volume. Might cause moderate damage.
+Incredible Backfire: Nothing burns as brightly as the fire of life itself. Your soul is sacrificed and utterly destroyed when you cast this spell, and one Attribute is stepped down twice. A volunteer can sacrifice their own soul instead. You may choose not to cast this spell.
+
+-----------------------------------
+## Create a new Spell
+At any time you may cast a brand new spell that's not in your spellbook. When you do so, roll all the dice within the spell power pool.
+Take note of the lowest and highest numbers rolled. Refer to the lowest for the success state of the spell, and the highest for the backfire state. Evaluate both separately.
+You only note down the Spell within your Spellbook, if you roll at least a partial success.
+
+Incredible success: Reroll a die and keep the lower number.
+Normal Success: You did it, you cast the spell.
+Partial success: Reroll a die and keep the higher number.
+No success: You fail to cast the spell. 
+
+Backfire: Refer to the school of the spell. // A universal backfire table might be added as well, focusing less on the canon spell going wrong, and more on providing the GM with moves.
+
+If you roll backfire, you can't create new spells of the same school, until the next session.[*]
+(Or a day has passed, if the concept of a session is irrelevant. i.e. solo play)
+
+-----------------------------------
+## Spellbook
+Each time you create a new spell, note it down within your Spellbook. Give it a name and description, and note the Attribute dice used and the Backfire incurred.
+When you reach a milestone of spells within your Spellbook, gain a Relevation.
+When you cast a spell from your spellbook, roll the heighest die within the spell casting power pool and determine the results according to its result.
+
+Incredible Success: Step down one of the attributes by one step for this casting.
+Normal Success: You cast the spell.
+Partial Success: Step up a random attribute by one step for this casting.
+
+You incurr both the backfire of your die roll, as well as the noted backfire within the spells description.
+
+When you gain a Relevation, you may choose one spell within your spellbook and reroll its spell power dice with Brilliance. Use your current spell power. 
+Otherwise, when you try to achieve a similar enough effect to that of a spell noted in your spellbook you must cast that.
+
+
+-----------------------------------
+## Wards*
+As a mage, you keep your fragile body safe through the power of wards. These aren't the first thing a mage learns, but the ones that don't, generally don't make it far in the world.
+You know basic warding magic at rank 1.[*]
+
+There is a general purpose ward always protecting you, at a d20.
+On top of that you have specialized wards, represented by your ward power (WP).
+Ward power is a number of die steps you can go up from a d20. You can spend WP to create or upgrade your wards.
+You start with 5 WP, and the Recalibrate Wards spell.
+
+*Recalibrate Wards:
+	You recalibrate your ward power. Destroy all wards currently affecting you and reclaim their WP, resetting it to max. If temporary WP was gained, it fades away now.
+	Spend 1 WP to create a new ward at a d12. Name this ward, it protects you against its named target.
+	Instead of creating further wards, you may also increase the die step of an existing ward (except general purpose) by one, for each WP spent.
+	d12 Cast: 8 hours
+	d12 Effect
+	d12 Duration: Instant
+	d12 Target: self
+	d12 Range:self
+	d12 Effort: You fall unconscious upon casting this spell and sleep. Many mages use this as sleep aid.
+
+When you take harm, roll the die of a relevant ward and refer to the following table:
+| Incredible Success	| You absorb the energy of the blow. Gain 1 temporary WP, and upgrade your current ward up to a d4. 	|
+| Normal Success	| You counter the incoming spell, deflect the blow, or generally avoid the danger.		   	|
+| Partial Success	| Your ward keeps you safe, but it still takes a hit. Move 1 WP from this ward to another.		|
+| No Success		| The damage breaks through your ward. Lose 1 WP from this ward.					|
+
+Harm comes in 3 varieties: Minor, Moderate and Major.
+Minor Harm: You roll on your wards with Brilliance.
+Moderate Harm has you roll once.
+Major Harm: You roll on your wards blinded by Hubris.
+
+Your ward can be differently effective against different things:
+A [kinetic] ward is general enough to protect from many physical harms. 
+A [blunt impact] ward on the other handgains increased effectiveness against blunt impacts due to its specialized nature, but reduced effectiveness against other physical threats.
+If a ward is very effective, it reduces the incoming harm by one step, to a minimum of Minor.
+If a ward is not very effective (and no other ward supercedes it), you may still use it to protect yourself, however it increases the incoming harm by one step, to a maximum of Major.
+
+### Your wards have failed.
+If none of your specialized wards apply, the general purpose ward still has a chance of protecting you.
+When all fails and your WP drops to 0, taking any amount of harm will take you out of the scene. 
+You may be trapped, thrown out of the room, fall unconscious, end up with a broken bone or missing limbs, or even die.
+Describe what happens, and note down an appropriate consequence to the harm that took you out. 
+Many bodily injuries heal with time, but may take you out of the campaign. Depending on the campaign howerver, restoring magic exists that could help you sooner.
+Since this game only models rules for spellcasting, most consequences are purely affecting roleplay.
+One consequence that affects gameplay, might be a burnt spellbook, losing you spells known and Relevations gained. 
+The GM is advised to employ such only in moderation, as it rarely increases the enjoyment of the players.
+
+Examples can be found below within the premade characters.
+
+
+-----------------------------------
+## Gaining a Revelation
+
+You gain a revalation whenever you reach a milestone of spells within your Spellbook. Every 5 spells earns you a Milestone. <- SUBJECT TO CHANGE
+
+When you gain a revalation, you do the following:
+	- Rank up any one school of magic, which upgrades one spell power die. If the chosen school is Wards, increase WP by 1.
+	- Recreate one spell in your spellbook. Reroll it with Brilliance and use your current spell power pool. 
+-----------------------------------
+# For GMs: The Magic system.
+A lot can be inuited from the schools of magic you give your players access to, yet no good magic systems survives on allowances alone.
+A good magic system has limitations and rules. You as the GM must write down a number of these limits in addition to creating the schools of magic themselves.
+What problems in the world cannot be fixed with magic?
+Perhaps your magic system is very freeform and allows for almost everything, yet you don't wish for the dead to be truly resurrected.
+Or perhaps time travel to the past is impossible, despite a school of magic existing for temporal manipulation.
+
+Some of these rules you will share with the players. Others may be hidden and be discovered as the players experiment with their magic or unearth lost knowledge.
+Yet more limits you will share with the players that will turn out to be false, yet widely believed in the world they inhabit.
+
+To start, write down two general things that your magic is incapable of, as well as one very specific thing. Share these with your players.
+Then add one false rule that the majority of people believe. Share this as well, presenting it as true.
+Lastly, add one more rule that so far as not been discovered. It may be another limitation of the magic, or it may be a school of magic hidden from the world.
+
+You are free to alter these guidelines as you see fit, yet don't discard them entirely.
+
+For a start, a generic fantasy magic system might have the above Gygaxian Schools, as well as the following rules:
+Limit 1: Magic items can only be used by mages.
+Limit 2: Mages are rare enough that society doesn't develop around them.
+Specific: Magic can't touch the Gods or resurrect the dead.
+False: You're either born with magic, or you're not. No normal person can become a mage.
+Hidden: There is an undiscovered school of magic, which is the source of the monsters that roam the land, able to corrupt any mortal.
+
+Additionally, you might want to give the whole system of magic, or each individual school its own distinct look.
+Add a [Medium] to the system or school. Do mages draw glyphs from special ink? Do they wield wands with cores of mystical beasts? Do they perform martial arts to affect the elements around them?
+
+The default medium for this system are incantations that need to be chanted in an ancient tongue that is only partially decrypted. 
+Some of the chants are translated, others a result from experimentation and not properly understood. For long casting times, chanting must be kept up the entire time.
+
+-----------------------------------
+Character Sheet:
+Name: Jimothy the Grand
+Rank: 2
+Appereance: Disheveled robes, too large hat hiding face
+Fire 1: d10, 4d12
+Wards 1(5WP) : 5d12 (Kinetic, Fire, Water, Falling, Undead) 
+
+Spellbook (1/5):
+*Sparks: 
+	Creates a few sparks in your hand that might light a fire if burnable material is near.
+	You fall unconscious a few seconds after the spell is cast. Hopefully not into the fire you started.
+	d10 Cast: 2 hours
+	d12 Effect: minor 	
+	d12 Duration: Instant
+	d12 Range: Self
+	d12 Target: Self
+	d12 Exertion: Life Threatening
+
+
+Name: Meek Magister McDonald
+Rank: 14
+Appereance: Neat suit and tie.
+Pyromancer 5: 2d8, d10, 2d12
+Necromancer 7: 2d8, 3d10
+Wards 2 (7WP): d6 (Holy) 2d8 (Undead, Kinetic)
+
+Spellbook (bunch/more):
+* Raise exploding Zombie:
+	You raise a corpse you touch into an undead monstrosity containing a volatile spark. You can command the zombie to attack for minor hurt, or explode for moderate hurt.
+	d10 Cast: An hour
+	 d8 Effect
+	d10 Duration: minutes
+	d10 Range: Touch
+	d10 Target: One
+	d10 Exertion: Vomit and Pain
+
+*bunch more
+
