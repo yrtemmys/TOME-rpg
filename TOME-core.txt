@@ -22,6 +22,8 @@ Key terms:
 
 -----------------------------------
 ## The Basic Roll:
+
+The most basic roll within TOME refers to the chart below. No matter what die you are rolling with, always refer back to these results:
 	____________________________________________
 	| -- SUCCESS STATE	-- BACKFIRE STATE  |
 	|  1 Incredible Success	none		   |
@@ -45,7 +47,7 @@ Key terms:
 	| d12 42%		42%		   |
 	[__________________________________________]
 
-
+A d20 functions the same way as a d12 for purposes of prerequesites and the like, it only has much worse success rates.
 
 -----------------------------------
 ## Spell Power
@@ -310,7 +312,7 @@ d12	Fledgling 	A fledgeling Necromancer shows interest in the school but has not
 d10	Apprentice 	An apprentice Pyromancer has found a master to study under, or another place of learning.
  d8	Diciple		A Diciple of Abjuration has completed their basic training and is a fully fledged Mage.
  d6	Master 		A Master Conjurer has advanced to the point where they can take on their own students and teach their school.
- d4	Grand		A Grand Seer has reached the pinnacle of their school and few can rival their skill.
+ d4	Supreme		A Grand Seer has reached the pinnacle of their school and few can rival their skill.
 
 To apply a title to your character as a whole, pick the school with the highest title you have earned and use that.
 Additionally, once you've reached [highest rank] in 5 different schools, you may claim the coveted title of Archmage.
