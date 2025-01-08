@@ -17,8 +17,8 @@ Opposing School: Elemental/Fire
 
 #### Backfire
 - Partial Backfire:
-   - This is the partial Backfire.
+   - The water you conjure splashes uselessly onto the ground, making things wet and a little slippery.
 - Moderate Backfire:
-   - This is the Moderate Backfire.
+   - You cough up water from your lungs, making it hard to breathe. Take moderate hurt.
 - Incredible Backfire:
    - The water of your spell envelops your body and freezes. If you or your alies don't act quickly, you'll be turned into an ice sculpture.
