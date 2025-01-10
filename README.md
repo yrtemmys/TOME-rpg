@@ -17,4 +17,19 @@ Elemental/
 - [ ] Metal
 - [x] Water
 - [x] Wood
-- air->sound??
+- light?
+
+air->electric
+earth->metal
+fire->light
+water->wood
+
+fire-water
+electric-earth
+metal-wood
+air-light..?
+
+light-earth
+electric-wood
+metal-air
+fire-water
