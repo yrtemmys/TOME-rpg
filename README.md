@@ -10,10 +10,10 @@ content/ holds the individual spell schools.
 character/ will have character sheets and stuff, currently has two example characters
 
 Elemental/
-  Air
-  Earth
-  Electricity
-  [x] Fire
-  Metal
-  [x] Water
-  [x] Wood
+- [ ] Air
+- [ ] Earth
+- [ ] Electricity
+- [x] Fire
+- [ ] Metal
+- [x] Water
+- [x] Wood
