@@ -4,7 +4,9 @@ Take note of the lowest and highest numbers rolled. Refer to the lowest for the 
 You only note down the Spell within your Spellbook, if you roll at least a partial success.
 
 **Incredible success**: Reroll a die and keep the lower number.
+
 **Normal Success**: You did it, you cast the spell.
+
 **Partial success**: Reroll a die and keep the higher number.
 No success: You fail to cast the spell. 
 
@@ -19,7 +21,9 @@ When you reach a milestone of spells within your Spellbook, gain a Relevation.
 When you cast a spell from your spellbook, roll the heighest die within the spell casting power pool and determine the results according to its result.
 
 **Incredible Success**: Step down one of the attributes by one step for this casting.
+
 **Normal Success**: You cast the spell.
+
 **Partial Success**: Step up a random attribute by one step for this casting.
 
 You incurr both the backfire of your die roll, as well as the noted backfire within the spells description.
