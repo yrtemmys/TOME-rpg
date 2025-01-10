@@ -12,7 +12,7 @@ Opposing School: Metal
 | d10  | green thumb       | kickstart a seed      | grow healing fruit           | 
 |  d8  | speak with plants | shape wood            | rapid growth                 |
 |  d6  | poison immune     | create potent poisons | control fungi                |
-|  d4  | become dryad      | be one with plants    | Ygdrassil                    |
+|  d4  | become dryad      | be one with plants    | Yggdrasil                    |
 
 #### Backfire
 - Partial Backfire:
