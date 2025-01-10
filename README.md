@@ -17,4 +17,4 @@ Elemental/
 - [ ] Metal
 - [x] Water
 - [x] Wood
-air->sound??
+- air->sound??
