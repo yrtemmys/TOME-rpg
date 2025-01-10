@@ -1,15 +1,15 @@
 
 Character Sheet:
-Name: Jimothy the Grand
-Rank: 2
-Appereance: Disheveled robes, too large hat hiding face
-Fire 1: d10, 4d12
-Wards 1(5WP) : 5d12 (Kinetic, Fire, Water, Falling, Undead) 
+- Name: Jimothy the Grand
+- Rank: 2
+- Appereance: Disheveled robes, too large hat hiding face
+- Fire 1: d10, 4d12
+- Wards 1(5WP) : 5d12 (Kinetic, Fire, Water, Falling, Undead) 
 
-Spellbook (1/5):
+#### Spellbook (1/5):
 *Sparks: 
-	Creates a few sparks in your hand that might light a fire if burnable material is near.
-	You fall unconscious a few seconds after the spell is cast. Hopefully not into the fire you started.
+> Creates a few sparks in your hand that might light a fire if burnable material is near.
+> You fall unconscious a few seconds after the spell is cast. Hopefully not into the fire you started.
 	d10 Cast: 2 hours
 	d12 Effect: minor 	
 	d12 Duration: Instant
