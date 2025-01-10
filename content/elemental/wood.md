@@ -16,8 +16,8 @@ Opposing School: Metal
 
 #### Backfire
 - Partial Backfire:
-   - This is the partial Backfire.
+   - The spell causes a plant to grow from your body, altering your appereance permanently. Depending on the plant and location, take minor harm.
 - Moderate Backfire:
-   - This is the Moderate Backfire.
+   - Mother Nature dissaproves of your spell, causing it to go awry. Change your spell's target or location to something invonvenient.
 - Incredible Backfire:
-   - This is the Incredible Backfire. It should change a character permanently or have a risk of taking them out completely.
+   - The spell goes horribly wrong and drains vitality from everything around you. Allies and Enemies alike, as well as the flora and fauna within range wither and die, taking major harm.
