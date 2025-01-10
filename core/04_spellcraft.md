@@ -29,4 +29,5 @@ When you cast a spell from your spellbook, roll the heighest die within the spel
 You incurr both the backfire of your die roll, as well as the noted backfire within the spells description.
 
 When you gain a Relevation, you may choose one spell within your spellbook and reroll its spell power dice with Brilliance. Use your current spell power. 
+
 Otherwise, when you try to achieve a similar enough effect to that of a spell noted in your spellbook you must cast that.
