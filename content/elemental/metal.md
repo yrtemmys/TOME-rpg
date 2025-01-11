@@ -8,7 +8,7 @@ Opposing school: I cant fucking remember.
 
 | Step | Benefit                | Floor                       | Ceiling                |
 | -    | -                      | -                           | -                      |
-| d12  | none                   | make coins shake.           | Rig a coinflip.        |
+| d12  | none                   | make coins shake            | rig a coinflip         |
 | d10  | recognise metal types. | slightly magnetise a metal  | bend an edge of a blade|  
 |  d8  | detect nearby metals   | coin bullets                | manifest a steel spear |
 |  d6  | never out of breath    | manifest ideal armor        | Instant iron maiden    |
