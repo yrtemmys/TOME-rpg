@@ -9,7 +9,7 @@ Opposing School: [Opposing School]
 | Step | Benefit | Floor | Ceiling |
 | - | - | - | - |
 | d12 | none               | gentle breeze | conserve temperature |
-| d10 | wind at your back  | enhanced movement | wall of wind |
+| d10 | wind at your back  | auditory illusions | wall of wind |
 |  d8 | breathe anywhere   | blade of air | sustained vacuum |
 |  d6 | resist confinement | fly | depressurize |
 |  d4 | become air         | control weather | create gas |
