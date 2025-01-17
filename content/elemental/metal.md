@@ -2,7 +2,7 @@
 *A mettalumancer uses metals and magneticism to bend, move, and create metal. From moving pennies up to crushing anything in your way.*
 *Mistakes in casting can cause you to get a few coins lodged in your leg, or make the iron in your blood no longer be in your blood.*
 
-Opposing school: *Elemental/Air*
+Opposing School: *Elemental/Air*
 
 #### Effect
 
