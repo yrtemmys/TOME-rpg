@@ -2,7 +2,7 @@
 *Photomancers control light. They can dazzle and blind, create illusions, or focus the photons under their control into deadly L A S E R.*
 *A failed spell might leave them blinded as light refuses to reach their eyes, or turn you into light, leaving you unable to act.*
 
-Opposing School: Earth
+Opposing School: *Elemental/Earth*
 
 #### Effect
 
