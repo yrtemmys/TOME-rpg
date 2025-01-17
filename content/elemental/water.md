@@ -2,7 +2,7 @@
 *A hydromancer commands water in all its forms, from the gasious vapours in the air, to the arctic icecaps of the north.*
 *Yet be warned, for a mishaps in casting may cause drowning or freezing to death.*
 
-Opposing School: Elemental/Fire
+Opposing School: *Elemental/Fire*
     
 #### Effect
 
