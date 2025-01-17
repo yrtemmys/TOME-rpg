@@ -2,7 +2,7 @@
 *An Electromancer harnesses the very power of lightning itself. Yet even applied in minute doses it proves remarkable effective.*
 *Misuse of this school can cause the electric signals in your body to become jumbled, or worse yet: cause permanent nerve damage.*
 
-Opposing School: Wood
+Opposing School: *Elemental/Wood*
     
 #### Effect
 
