@@ -2,7 +2,7 @@
 *A Dendromancer commands the flora around them. The plants can hinder and harm, or aid and heal.*
 *A mistaken spell may take root within the caster, or wither flora and fauna around them.*
 
-Opposing School: Metal
+Opposing School: *Elemental/Metal*
     
 #### Effect
 
