@@ -17,14 +17,14 @@ todo/notes/misc
 
 
 Elemental/
-- [ ] Air
+- [x] Air
 - [ ] Earth
-- [ ] Electricity
+- [x] Electricity
 - [x] Fire
-- [ ] Metal
+- [x] Metal
 - [x] Water
 - [x] Wood
-- light?
+- [x] light?
 
 air->electric
 earth->metal
