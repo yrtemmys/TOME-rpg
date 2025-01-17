@@ -2,7 +2,7 @@
 *Aeromancers command the wind and the air they breathe. What a Aeromasters lack in lethality, they more than make up with unparalleled freedom in movement.*
 *Failed spells can trap the caster in a vacuum, or direct hindering winds at them and their allies.*
 
-Opposing School: Metal
+Opposing School: *Elemental/Metal*
     
 #### Effect
 
