@@ -15,28 +15,8 @@ Head to `core/` to see the rules. (TOME-core.txt is outdated)
 
 todo/notes/misc
 
+Elemental Magic is DONE.
 
-Elemental/
-- [x] Air
-- [ ] Earth
-- [x] Electricity
-- [x] Fire
-- [x] Metal
-- [x] Water
-- [x] Wood
-- [x] light?
-
-air->electric
-earth->metal
-fire->light
-water->wood
-
-fire-water
-electric-earth
-metal-wood
-air-light..?
-
-light-earth
-electric-wood
-metal-air
-fire-water
+hmm, vampirism?
+  different health system than wards
+  
