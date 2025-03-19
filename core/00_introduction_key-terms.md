@@ -10,7 +10,7 @@ You may be a little wizard shitling, but even you can cast magic. If you can rol
 
 Key terms:
 - Die Steps: A die step refers to the gap between the closest two dice. This game plays with the d4, d6, d8, d10, d12 and d20.
-- Step up/down: A die can step up or down to the next size. For example, a d8 steps down to a d6, and a d10 steps up to a d12, which steps down to a d20.
+- Step up/down: A die can step up or down to the next size. For example, a d8 steps down to a d6, and a d10 steps up to a d12, which steps up to a d20.
 - WP: Ward Power. The representation of how well protected you are.
 - SP: Spell Power. A pool of dice you use when casting spells.
 - Attributes: A spell is made up of these Attributes. They are: Effect, Casting time, Duration, Range, Targets, and Effort
